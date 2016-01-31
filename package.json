@@ -1,12 +1,12 @@
 {
-  "name": "fm-central",
+  "name": "sample-webpack-babel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "opensourcegeek",
   "license": "ISC",
   "dependencies": {
     "immutable": "^3.7.6",
